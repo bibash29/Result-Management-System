@@ -1,0 +1,7 @@
+book2 = https://i.pinimg.com/474x/5b/30/d2/5b30d276aef6593fc301216a0591bb45.jpg
+library = https://wallpaperaccess.com/full/2862101.jpg
+class1 = https://www.teahub.io/photos/full/172-1723272_school-classroom-hd.jpg
+class2 = https://wallpaperaccess.com/full/200620.jpg
+kbc = https://media.edusanjal.com/logos/kathmandu_bernhardt_college.png
+res = https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/12/results-1607325644.jpg
+result1 = https://news.liverpool.ac.uk/wp-content/uploads/2020/09/results.jpeg
